@@ -4,7 +4,7 @@ Welcome to the YBI Foundations Machine Learning Internship! This repository cont
 Overview
 Intern: Sneha Pusuluri
 Organization: YBI Foundations
-Duration: June to July of 2024
+Duration: May to June of 2024
 Project Description
 This project focuses on developing a machine learning model for handwritten digit recognition. The goal is to build an accurate and efficient system that can recognize and classify handwritten digits (0-9) into their respective categories. 
 
